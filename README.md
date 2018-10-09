@@ -6,7 +6,7 @@ Schedule:
 
 | Class | Date | Topic | Intro | Status |
 |-----|------|------|------|------|
-| Week 1A | 9 Oct 2018 Tue | [Intro and HTML](intro) | - | - |
+| Week 1A | 9 Oct 2018 Tue | [Intro and HTML](intro) | [Class 1](intro/intro.md) | - |
 | Week 1B | 11 Oct 2018 Thus | [CSS I](css-1) | - | - |
 | Week 2A | 16 Oct 2018 Tue | [CSS II](css-2) | - | - |
 | Week 2B | 18 Oct 2018 Thus | [Git](git) | - | - |
