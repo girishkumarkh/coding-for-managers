@@ -24,10 +24,10 @@
 
 ### Agenda :rocket:
 1. Start styling your page with CSS
-2. By 
-  * Inline style
-  * Embedded style
-  * Linked style
+2. By
+ * Inline style
+ * Embedded style
+ * Linked style
 3. [bonus] Realife examples 
 4. [bonus] When to use when
 
