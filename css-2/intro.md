@@ -24,4 +24,4 @@
 ### Homework
 - [Exercise](exercices.md)
 - Background reading [Flexbox: The Next Generation of CSS Layout Has Arrived](https://blog.teamtreehouse.com/flexbox-next-generation-css-layout-arrived)
-- Next Chapter's [Pre-class prep: Git](git/pre-class-prep.md)
+- Next Chapter's [Pre-class prep: Git](/git/pre-class-prep.md)
