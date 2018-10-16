@@ -14,6 +14,7 @@
 ### Objectives
 - Responsive Styling (CSS in different screen sizes)
 - Flexbox
+- Cross-Browser compatibility
 
 ### Agenda :rocket:
 1. Learn about Responsive Styling and how to implement them
