@@ -191,7 +191,7 @@ Let's create a blog file: `$ touch pages/blog.html`
   Before we add some media queries, try collapsing your browser so it's too narrow for the layout. How does it look?
   ```css
   @media all and (max-width: 640px) {
-    #flex_main, #flex_page {
+    #flex_main {
       flex-direction: column;
     }
 
@@ -200,7 +200,7 @@ Let's create a blog file: `$ touch pages/blog.html`
       order: 0;
     }
 
-    #flex_main > .flexnav, #flex_main > .flexaside, .flexheader, .flexfooter {
+    #flex_main > .flex-nav, #flex_main > .flex-aside, .flex-header, .flex-footer {
       min-height: 50px;
       max-height: 50px;
     }
