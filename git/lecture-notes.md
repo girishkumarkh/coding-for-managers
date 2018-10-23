@@ -83,7 +83,7 @@ Once you are done with all the changes you made in your branch, you are then rea
 
 Once you merged you branched you can safely delete it. You can also keep you branches if you want to keep track of the changes you made on each branches.
 
-- on you master branch, delete our other branch `git branch ---delete the-branch-you-named`
+- on you master branch, delete our other branch `git branch --delete the-branch-you-named`
 
 ### Resetting
 Here is why Git is powerful. If your changes are not right and you need to go back to an older version of your code, it's possible. Here are the commands:
