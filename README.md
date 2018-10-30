@@ -10,7 +10,7 @@ Schedule:
 | Week 1B | 11 Oct 2018 Thus | [CSS I](css-1) | [Class 2](css-1/intro.md) | ✅ |
 | Week 2A | 16 Oct 2018 Tue | [CSS II](css-2) | [Class 3](css-2/intro.md) | ✅ |
 | Week 2B | 18 Oct 2018 Thus | [Git](git) | [Class 4](git/intro.md) | ✅ |
-| Week 3A | 23 Oct 2018 Tue | [Review I](review-1) | No Notes Just Review | - |
+| Week 3A | 23 Oct 2018 Tue | [Review I](review-1) | No Notes Just Review | ✅ |
 | Week 3B | 25 Oct 2018 Thus | [Ruby](ruby) | - | - |
 | Week 4A | 30 Oct 2018 Tue | [Rails I](rails-1) | - | - |
 | Week 4B | 1 Nov 2018 Thus | [Rails II](rails-2) | - | - |
