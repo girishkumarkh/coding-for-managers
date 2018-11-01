@@ -17,8 +17,8 @@ Schedule:
 | Week 5A | 6 Nov 2018 Tue | [Rails III](rails-3) | - | - |
 | Week 5B | 8 Nov 2018 Thus | [Bootstrap](bootstrap) | - | - |
 | Week 6A | 13 Nov 2018 Tue | [Review II](review-2) | - | - |
-| Week 6B | 13 Nov 2018 Tue  | [Javascript I](javascript-1) | - | - |
-| Week 7A | 15 Nov 2018 Thus | [Javascript II](javascript-2) | - | - |
-| Week 7B | 27 Nov 2018 Tue | [Public APIs](public-apis) | - | - |
-| Week 8A | 27 Nov 2018 Tue | [Deployment](deployment) | - | - |
-| Week 8B | 29 Nov 2018 Thus | [Technical Interviews](technical-interview) | - | - |
+| Week 6B | 15 Nov 2018 Thus  | [Javascript I](javascript-1) | - | - |
+| Week 7A | 27 Nov 2018 Tue | [Javascript II](javascript-2) | - | - |
+| Week 7B | 29 Nov 2018 Thus | [Public APIs](public-apis) | - | - |
+| Week 8A | 4 Dec 2018 Tue | [Deployment](deployment) | - | - |
+| Week 8B | 4 Dec 2018 Tue | [Technical Interviews](technical-interview) | - | - |
