@@ -13,7 +13,7 @@ Schedule:
 | Week 3A | 23 Oct 2018 Tue | [Review I](review-1) | No Notes Just Review | ✅ |
 | Week 3B | 30 Oct 2018 Tue | [Ruby](ruby) | - | ✅ |
 | Week 4A | 30 Oct 2018 Tue | [Rails I](rails-1) | - | ✅ |
-| Week 4B | 1 Nov 2018 Thus | [Rails II](rails-2) | - | - |
+| Week 4B | 1 Nov 2018 Thus | [Rails II](rails-2) | - | ✅ |
 | Week 5A | 6 Nov 2018 Tue | [Rails III](rails-3) | - | - |
 | Week 5B | 8 Nov 2018 Thus | [Bootstrap](bootstrap) | - | - |
 | Week 6A | 13 Nov 2018 Tue | [Review II](review-2) | - | - |
