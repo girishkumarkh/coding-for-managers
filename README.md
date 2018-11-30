@@ -19,6 +19,6 @@ Schedule:
 | Week 6A | 13 Nov 2018 Tue | [Review II](review-2) | - | ✅ |
 | Week 6B | 15 Nov 2018 Thus  | [Javascript I](javascript-1) | - | ✅ |
 | Week 7A | 27 Nov 2018 Tue | [Javascript II](javascript-2) | - | ✅ |
-| Week 7B | 29 Nov 2018 Thus | [Public APIs](public-apis) | - | - |
+| Week 7B | 29 Nov 2018 Thus | [Public APIs](public-apis) | - | ✅ |
 | Week 8A | 4 Dec 2018 Tue | [Deployment](deployment) | - | - |
 | Week 8B | 4 Dec 2018 Tue | [Technical Interviews](technical-interview) | - | - |
